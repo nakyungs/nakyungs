@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 
 ---
 
+### Publications
+\textbf{Latent Space Network Model for the Popularity Effect, with Applications to Bitcoin Networks}
+
 
 ### 🦾 Skills
 **🧑‍💻 Languages**
