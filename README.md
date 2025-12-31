@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hi%2C+I%27m+Nakyung+Shin%21&fontSize=50&fontAlign=50&fontAlignY=50&desc=Data+Scientist+X+AI+Engineer&descSize=30&descAlign=50&descAlignY=65)
 
 ---
+### 👩‍💻 I wanna be a Finance Data Scientist!
+
 ### 🙇‍♀️ About Me
 🎓 Education
-
-**M.S.** in Statistics
-* Thesis: A Study on an Explainable Paper Classification System Using Topic Modeling and XAI
-
-**B.S.** in Statistics & Economics
+* **M.S.** in Statistics
+* **B.S.** in Statistics & Economics
  
  
 ✅ 데이터를 세심히 관찰하고 탐구해 새로운 인사이트를 얻는 것을 좋아합니다.
@@ -37,8 +36,9 @@ Here are some ideas to get you started:
 
 ### 📄 Publications
 * **Latent Space Network Model for the Popularity Effect, with Applications to Bitcoin Networks**
-
 Lee, N., Park, J.,	<ins>Shin, N.</ins> Lee, Y., Lee, S. and Jung, H., _Journal of Applied Statistics_, submitted.
+* **Explainable Paper Classification System Using Topic Modeling and SHAP**
+  Shin N, Lee Y, Moon H, Kim J and Jung H., _Intelligent Data Analysis Journal. 2024;29(3):590-612_, doi:10.3233/IDA-240075
 
 
 ### 🦾 Skills
