@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ---
 ### 🙇‍♀️ About Me
 * 🎓 Education
-  * M.S. in Statistics
+  * **M.S.** in Statistics
       * Thesis: A Study on an Explainable Paper Classification System Using Topic Modeling and XAI
-  * B.S. in Statistics & Economics
+  * **B.S.** in Statistics & Economics
+ 
+ 
 ✅ 데이터를 세심히 관찰하고 탐구해 새로운 인사이트를 얻는 것을 좋아합니다.
 
 ✅ 끊임없이 '왜?'를 되물으며 문제 해결 능력을 강화합니다.
