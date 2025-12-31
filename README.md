@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 * 🌍 대만중앙연구원(大灣中央院, Acamedia Sinica) 통계과학연구소 인턴 _2024.06.24 ~ 2024.08.30_
 
 
+### 🧠 Projects
+* 
 
 ### 📄 Publications
 * **Latent Space Network Model for the Popularity Effect, with Applications to Bitcoin Networks**
@@ -60,3 +62,8 @@ Here are some ideas to get you started:
 **🛠️ Tools**
 
 ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
+
+### 🏅 Certifications
+* **빅데이터분석기사**, 한국데이터산업진흥원
+* **데이터 분석 준전문가(ADsP)**, 한국데이터산업진흥원
+* **사회조사분석사 2급**, 한국산업인력공단
