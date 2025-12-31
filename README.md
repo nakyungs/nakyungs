@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### 🎓 Education
 * **M.S.** in Statistics
+   * Thesis: A Study on an Explainable Paper Classification System Using Topic Modeling and XAI
 * **B.S.** in Statistics & Economics
 
 
