@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### 📄 Publications
 * **Latent Space Network Model for the Popularity Effect, with Applications to Bitcoin Networks**
-Lee, N., Park, J.,	<ins>Shin, N.</ins>, Lee, Y., Lee, S. and Jung, H., _Journal of Applied Statistics_, submitted.
+   * Lee, N., Park, J.,	<ins>Shin, N.</ins>, Lee, Y., Lee, S. and Jung, H., _Journal of Applied Statistics_, submitted.
 * **Explainable Paper Classification System Using Topic Modeling and SHAP**
-  <ins>Shin, N.</ins>, Lee Y, Moon H, Kim J and Jung H., _Intelligent Data Analysis Journal. 2024;29(3):590-612_, doi:10.3233/IDA-240075
+   * <ins>Shin, N.</ins>, Lee Y, Moon H, Kim J and Jung H., _Intelligent Data Analysis Journal. 2024;29(3):590-612_, doi:10.3233/IDA-240075
 
 
 ### 🦾 Skills
