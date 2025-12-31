@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-// ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hi%2C+I%27m+Nakyung+Shin%21&fontSize=50&fontAlign=50&fontAlignY=50&desc=Data+Scientist+X+AI+Engineer&descSize=30&descAlign=50&descAlignY=65)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hi%2C+I%27m+Nakyung+Shin%21&fontSize=50&fontAlign=50&fontAlignY=50&desc=Data+Scientist+X+AI+Engineer&descSize=30&descAlign=50&descAlignY=65)
+-->
 
 ---
 ### 👩‍💻 안녕하세요, 금융 데이터 사이언티스트를 꿈꾸는 신나경입니다!
