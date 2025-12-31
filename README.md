@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Nakyung+Shin&fontSize=50&fontAlign=50&fontAlignY=50&desc=AI+Engineer&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hi%2C+I%27m+Nakyung+Shin%21&fontSize=50&fontAlign=50&fontAlignY=50&desc=Data+Scientist+X+AI+Engineer&descSize=30&descAlign=50&descAlignY=65)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
