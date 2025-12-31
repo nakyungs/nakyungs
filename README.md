@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hi%2C+I%27m+Nakyung+Shin%21&fontSize=50&fontAlign=50&fontAlignY=50&desc=Data+Scientist+X+AI+Engineer&descSize=30&descAlign=50&descAlignY=65)
 
 ---
-### About Me
+### 🙇‍♀️ About Me
 ✅ 데이터를 세심히 관찰하고 탐구해 새로운 인사이트를 얻는 것을 좋아합니다.
+
 ✅ 끊임없이 '왜?'를 되물으며 문제 해결 능력을 강화합니다.
+
 ✅ 새로운 분석 방법과 기술을 지속적으로 습득하며 자기 주도적으로 성장합니다.
+
 ✅ 팀원과의 커뮤니케이션을 통해 더 의미 있는 성과를 만들어냅니다.
 
 ### 🦾 Skills
