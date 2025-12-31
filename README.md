@@ -23,10 +23,15 @@ Here are some ideas to get you started:
 * ✅ 팀원과의 커뮤니케이션을 통해 더 의미 있는 성과를 만들어냅니다. 
 ---
 
-### 🙇‍♀️ About Me 
-🎓 Education
+### 🎓 Education
 * **M.S.** in Statistics
 * **B.S.** in Statistics & Economics
+
+
+### 🧭 Experience
+* 🏦 IBK기업은행 투자금융부 청년인턴 (2025.07.04 ~ 2025.08.14)
+* 🌍 대만중앙연구원(大灣中央院, Acamedia Sinica) 통계과학연구소 인턴 (2024.06.24 ~ 2024.08.30)
+
 
 
 ### 📄 Publications
