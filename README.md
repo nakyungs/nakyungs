@@ -30,6 +30,13 @@ Here are some ideas to get you started:
 * **B.S.** in Statistics & Economics
 
 
+### 💡 Interests
+* **XAI (Explainable AI)**: 모델의 의사결정 과정을 해석하여 신뢰 가능한 AI 인사이트 도출
+* **Finance ML/DL Modeling**: 금융 데이터 기반의 머신러닝·딥러닝 모델링 및 예측 성능 고도화
+* **Generative AI**: 대형 언어 모델(LLM)을 활용한 서비스 개발 및 프롬프트·시스템 설계
+
+---
+
 ### 🧭 Experience
 * 🏦 IBK기업은행 투자금융부 청년인턴 _2025.07.04 ~ 2025.08.14_
 * 🌍 대만중앙연구원(大灣中央院, Acamedia Sinica) 통계과학연구소 인턴 _2024.06.24 ~ 2024.08.30_
