@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 * **Musculoskeletal Morbidity in Adults with Spinal Cord Injuries: A Nationwide Cohort Study**
    * Bae, Y., Jung, H., <ins>Shin, N.</ins>, Lee, S.W. et al., _NeuroRehabilitation_, Vol.54, No.5, pp.599-610.
 
+---
 
 ### 🦾 Skills
 **🧑‍💻 Languages**
