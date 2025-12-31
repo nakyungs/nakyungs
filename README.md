@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📄 Publications
 * **Latent Space Network Model for the Popularity Effect, with Applications to Bitcoin Networks**
 
-Lee, N., Park, J.,	<ins>Shin, N.</ins> Lee, Y., Lee, S. and Jung, H., \textit{Journal of Applied Statistics}, submitted.
+Lee, N., Park, J.,	<ins>Shin, N.</ins> Lee, Y., Lee, S. and Jung, H., _Journal of Applied Statistics_, submitted.
 
 
 ### 🦾 Skills
