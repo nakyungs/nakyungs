@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Nakyung+Shin&fontSize=50&fontAlign=50&fontAlignY=50&desc=AI+Engineer&descSize=20&descAlign=50&descAlignY=60)
 
 ### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
+**🧑‍💻 Lang and Frameworks** \\
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 
 **🛠️ Infra and Tools**
