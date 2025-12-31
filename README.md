@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 * **Analysis and Prediction of R&D Investment Portfolio Based on Topic Modeling**
    * Oh, G., <ins>Shin, N.</ins>, Lee, S., Lee, Y., Jung, H. and Hong, M., _Journal of The Korean Data Analysis Society_, Vol.26, No.4, pp.993-1004.
 * **Musculoskeletal Morbidity in Adults with Spinal Cord Injuries: A Nationwide Cohort Study**
-   * Bae, Y., Jung, H., <ins>Shin, N.</ins>, Rahmati, M., Udeh, R., Kazemi, A., Li, Y., Solmi, M., Syafrudin, M., Fitriyani, N. L., Fond, G., Boyer, L. and Lee, S.W., _NeuroRehabilitation_, Vol.54, No.5, pp.599-610.
+   * Bae, Y., Jung, H., <ins>Shin, N.</ins>, Lee, S.W. et al., _NeuroRehabilitation_, Vol.54, No.5, pp.599-610.
 
 
 ### 🦾 Skills
