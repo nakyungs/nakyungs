@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * ✅ 팀원과의 커뮤니케이션을 통해 더 의미 있는 성과를 만들어냅니다. 
 ---
 
-### 🙇‍♀️ About Me
+### 🙇‍♀️ About Me 
 🎓 Education
 * **M.S.** in Statistics
 * **B.S.** in Statistics & Economics
